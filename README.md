@@ -1,5 +1,5 @@
 # Deep Monocular 3D Human Pose Estimation via Cascaded Dimension-Lifting
-![Structure](finalv2.png)
+![Structure](https://github.com/fnzhan/Pose-Estimation/blob/60446fac8a787e248358206235820a6ad5e02912/finalv2.jpg)
 
 
 ## Citation
